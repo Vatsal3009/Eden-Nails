@@ -8,7 +8,6 @@ plugins {
 android {
     namespace = "com.eden.nails"
     compileSdk = 34
-
     defaultConfig {
         applicationId = "com.eden.nails"
         minSdk = 24
