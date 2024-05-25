@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "664788474013",
+    "project_id": "eden-nails",
+    "storage_bucket": "eden-nails.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664788474013:android:e5ffa378e5deb808195c74",
+        "android_client_info": {
+          "package_name": "com.eden.nails"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNE_hCzvFRsfd4EA0_puCGm90tMBjqEp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

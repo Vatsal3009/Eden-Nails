@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Eden Nails</string>
+    <string name="price">₹%s</string>
+
+    <string name="txt_about_us">
+        Hello,\n\nThank you for downloading our application! At Eden Nails, we\'re committed to providing exceptional nail art services.\n\nPlease note that currently, we are accepting nail art orders exclusively within the Ahmedabad city area. We apologize for any inconvenience this may cause and appreciate your understanding.\n\nOur team is dedicated to delivering high-quality nail art designs and ensuring your satisfaction with every appointment.\n\nThank you for choosing Eden Nails. We look forward to serving you and enhancing your nail art experience!\n\nBest regards,\nEden Nails
+    </string>
+</resources>
